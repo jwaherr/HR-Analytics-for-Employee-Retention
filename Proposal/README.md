@@ -11,7 +11,7 @@ This project aims to use the previous employee's data who have worked in the com
 
 ## Dataset
 
-To achieve the goal of this study the dataset **HR Analytics for employee rentension** will be used. 
+To achieve the goal of this study, the dataset **HR Analytics for employee rentension** will be used. 
 
 The dataset contains 14,999 records, each record has 10 features. The most important feature of this project is the class label (left) which is indicate if the employee has left the company or not.
 This dataset can be found at [Kaggle](https://www.kaggle.com/pankeshpatel/hrcommasep).
