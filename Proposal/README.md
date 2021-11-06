@@ -39,7 +39,9 @@ This dataset contains:
 •	left (class label) ->0 indicates employee stays in the company, 1 indicates employee left the company
 
 
-The dataset is available as the ```.csv``` file. A sample of data is shown in the following table:
+
+
+The dataset is available as  ```.csv``` file. A sample of data is shown in the following table:
 <table width="100%">
  <tr>
   <th>satisfaction_level</th><th>last_evaluation</th><th>number_project</th><th>average_montly_hours</th><th>time_spend_company</th><th>work_accident</th><th>promotion_last_5years</th><th>department</th><th>salary</th><th>left</th>
