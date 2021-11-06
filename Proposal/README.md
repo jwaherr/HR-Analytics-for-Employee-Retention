@@ -36,13 +36,13 @@ This dataset contains:
 
 •	salary -> Salary ranges (high - medium - low)
 
-•	left (class label) ->0 indicates employee stays in the company, 1 indicates - employee left the company
+•	left (class label) ->0 indicates employee stays in the company, 1 indicates employee left the company
 
 
 The dataset is available as the ```.csv``` file. A sample of data is shown in the following table:
 <table width="100%">
  <tr>
-  <th>id</th><th>satisfaction_level</th><th>last_evaluation</th><th>number_project</th><th>average_montly_hours</th><th>time_spend_company</th><th>work_accident</th><th>promotion_last_5years</th><th>department</th><th>salary</th><th>left</th>
+  <th>satisfaction_level</th><th>last_evaluation</th><th>number_project</th><th>average_montly_hours</th><th>time_spend_company</th><th>work_accident</th><th>promotion_last_5years</th><th>department</th><th>salary</th><th>left</th>
  </tr>
  <tr>
   <th>0.38</th><th>0.53</th><th>2</th><th>157</th><th>3</th><th>0</th><th>0</th><th>sales</th><th>low</th><th>1</th>
