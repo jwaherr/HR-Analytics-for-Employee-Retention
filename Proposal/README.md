@@ -60,7 +60,7 @@ The dataset is available as  ```.csv``` file. A sample of data is shown in the f
 
 •	How many factors influence an employee to leave their current job? 
 
-•	Which is the department that has the most risk of leaving?
+•	Which is the department that has the most risk of leaving in future?
 
 •	Can this model help to form a better workplace culture by identifying the factors that cause an employee to leave? 
 
