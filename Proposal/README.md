@@ -67,7 +67,7 @@ The dataset is available as  ```.csv``` file. A sample of data is shown in the f
 
 ## Tools
 
-Some tools will be used to achieve the goal of this study, such as  ```Scikit-Learn, Seaborn, Matplotlib, Pandas, NumPy ``` for exploring the data and training the model. 
+Some tools will be used to achieve the goal of this study, such as  ```Scikit-Learn ```,  ```Seaborn ```,  ```Matplotlib ```,  ```Pandas ```, and  ```NumPy ``` for exploring the data and training the model. 
 The work will be done utilizing the Jupyter notebook to predict the prospects of future and present employees.
 
 
