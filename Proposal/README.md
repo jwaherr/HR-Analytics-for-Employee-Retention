@@ -23,12 +23,19 @@ This dataset contains:
 •	last_evaluation -> Last evaluation rating of an employee between 0 and 1
 
 •	number_project ->Number of projects an employee was involved in
+
 •	average_montly_hours -> Average number of hours in a month that an employee spent at the office
+
 •	time_spend_company -> Number of years employee spent in the company in years 
+
 •	work_accident-> Indicate if an accident happened during employee stay or not (0 - no accident  1 - accident occurred)
-•	promotion_last_5years ->
+
+•	promotion_last_5years -> Number of promotions in employee stay in the 5 years 
+
 •	department -> Department an employee belongs to
+
 •	salary -> Salary ranges (high - medium - low)
+
 •	left (class label) ->0 indicates employee stays in the company, 1 indicates - employee left the company
 
 
@@ -46,9 +53,13 @@ The dataset is available as the ```.csv``` file. A sample of data is shown in th
 ## Questions and Contribution
 
 •	How likely is an employee to leave their company or stay in the company?
+
 •	What is the main reason that causes employees to leave? 
+
 •	How many factors influence an employee to leave their current job? 
+
 •	Which is the department that has the most risk of leaving?
+
 •	Can this model help to form a better workplace culture by identifying the factors that cause an employee to leave? 
 
 
