@@ -30,7 +30,7 @@ This dataset contains:
 
 •	work_accident-> Indicate if an accident happened during employee stay or not (0 - no accident  1 - accident occurred)
 
-•	promotion_last_5years -> Number of promotions in employee stay in the 5 years 
+•	promotion_last_5years -> Number of promotions in employee stay in the last 5 years 
 
 •	department -> Department an employee belongs to
 
