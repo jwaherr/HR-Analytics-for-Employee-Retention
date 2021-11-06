@@ -26,7 +26,7 @@ This dataset contains:
 
 •	average_montly_hours -> Average number of hours in a month that an employee spent at the office
 
-•	time_spend_company -> Number of years employee spent in the company in years 
+•	time_spend_company -> Number of years employee spent in the company 
 
 •	work_accident-> Indicate if an accident happened during employee stay or not (0 - no accident  1 - accident occurred)
 
