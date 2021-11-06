@@ -19,7 +19,9 @@ This dataset can be found at [Kaggle](https://www.kaggle.com/pankeshpatel/hrcomm
 This dataset contains: 
 
 •	satisfaction_level -> An employee satisfaction level at a job between 0 and 1
+
 •	last_evaluation -> Last evaluation rating of an employee between 0 and 1
+
 •	number_project ->Number of projects an employee was involved in
 •	average_montly_hours -> Average number of hours in a month that an employee spent at the office
 •	time_spend_company -> Number of years employee spent in the company in years 
