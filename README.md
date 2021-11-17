@@ -27,15 +27,20 @@ The dataset is provided in .csv format. It contains 14,999 records, each record 
 3- Preformed Feature Scaling for all features to be equally in weigh. 
 
 ***Models***
+
 Logistic Regression, Decision Tree, and KNN were utilized in this project.
 
 
 ***Model Evaluation and Selection***
+
 Logistic Regression, Decision Tree, and KNN were utilized to classify employees.The Decision Tree performed the best. The model was trained with 11,991 records and was split into 70%-30% for train and testing. The official metric was the F1 score of the model, where the model tested on the accuracy, precision, recall, and F1 score. The result of used model:   
 
 • F1: 98% for 0 (Stayed), 89% for 1 (Left) 
+
 • Precision: 98% for 0 (Stayed), 88% for 1 (Left) 
+
 • Recall: 97% for 0 (Stayed), 90% for 1 (Left) 
+
 • Accuracy: 96%
 
 
