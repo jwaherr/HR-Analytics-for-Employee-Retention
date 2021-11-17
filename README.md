@@ -20,7 +20,7 @@ The dataset is provided in .csv format. It contains 14,999 records, each record 
 
 • Mid —> ( 0.5, 0.69 )  
 
-• High — ( 0.7, 1.0 )]
+• High — ( 0.7, 1.0 )
 
 2- Preformed dummy variable conversion for 4 categorical columns where it converts one categorical column to a data frame with dummy variables.
 
