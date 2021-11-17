@@ -13,6 +13,7 @@ The dataset is provided in .csv format. It contains 14,999 records, each record 
 ## Algorithms
 
 ***Feature Engineering***
+Preformed data binning for only two columns by grouping rating data values into specific bins or groups according to this criteria [ Low —> ( 0.0, 0.49 ), Mid —> ( 0.5, 0.69 ),  High — ( 0.7, 1.0 )]
 
 ***Models***
 
